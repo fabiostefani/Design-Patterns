@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fabiostefani.io.DesignPatte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fabiostefani.io.DesignPatterns.Factory2", "fabiostefani.io.DesignPatterns.Factory2\fabiostefani.io.DesignPatterns.Factory2.csproj", "{6066DF61-9317-4343-863F-24E44B917B11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fabiostefani.io.DesignPatterns.AbstractFactory", "fabiostefani.io.DesignPatterns.AbstractFactory\fabiostefani.io.DesignPatterns.AbstractFactory.csproj", "{7ECD0D59-0520-4CEF-A324-23BD8BAD034B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fabiostefani.io.DesignPatterns.AbstractFactory", "fabiostefani.io.DesignPatterns.AbstractFactory\fabiostefani.io.DesignPatterns.AbstractFactory.csproj", "{7ECD0D59-0520-4CEF-A324-23BD8BAD034B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fabiostefani.io.DesignPatterns.Singleton", "fabiostefani.io.DesignPatterns.Singleton\fabiostefani.io.DesignPatterns.Singleton.csproj", "{189DE9CD-44AE-43A0-AA06-618C663A648F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7ECD0D59-0520-4CEF-A324-23BD8BAD034B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ECD0D59-0520-4CEF-A324-23BD8BAD034B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ECD0D59-0520-4CEF-A324-23BD8BAD034B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189DE9CD-44AE-43A0-AA06-618C663A648F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189DE9CD-44AE-43A0-AA06-618C663A648F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189DE9CD-44AE-43A0-AA06-618C663A648F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189DE9CD-44AE-43A0-AA06-618C663A648F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{289E32BA-BC65-4516-904E-81D3F9B9FFF2} = {499E9F7F-04BA-4618-8FAE-6745095492DD}
 		{6066DF61-9317-4343-863F-24E44B917B11} = {499E9F7F-04BA-4618-8FAE-6745095492DD}
 		{7ECD0D59-0520-4CEF-A324-23BD8BAD034B} = {499E9F7F-04BA-4618-8FAE-6745095492DD}
+		{189DE9CD-44AE-43A0-AA06-618C663A648F} = {499E9F7F-04BA-4618-8FAE-6745095492DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4E2ACBD4-212F-4E82-9C62-78EC0630AEA8}

@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fabiostefani.io.DesignPatte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fabiostefani.io.DesignPatterns.Singleton", "fabiostefani.io.DesignPatterns.Singleton\fabiostefani.io.DesignPatterns.Singleton.csproj", "{189DE9CD-44AE-43A0-AA06-618C663A648F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fabiostefani.io.DesignPatterns.Adapter", "fabiostefani.io.DesignPatterns.Adapter\fabiostefani.io.DesignPatterns.Adapter.csproj", "{483B68D2-75AA-45F7-A737-41D3B8D77343}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{189DE9CD-44AE-43A0-AA06-618C663A648F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{189DE9CD-44AE-43A0-AA06-618C663A648F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{189DE9CD-44AE-43A0-AA06-618C663A648F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483B68D2-75AA-45F7-A737-41D3B8D77343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483B68D2-75AA-45F7-A737-41D3B8D77343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483B68D2-75AA-45F7-A737-41D3B8D77343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483B68D2-75AA-45F7-A737-41D3B8D77343}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 		{6066DF61-9317-4343-863F-24E44B917B11} = {499E9F7F-04BA-4618-8FAE-6745095492DD}
 		{7ECD0D59-0520-4CEF-A324-23BD8BAD034B} = {499E9F7F-04BA-4618-8FAE-6745095492DD}
 		{189DE9CD-44AE-43A0-AA06-618C663A648F} = {499E9F7F-04BA-4618-8FAE-6745095492DD}
+		{483B68D2-75AA-45F7-A737-41D3B8D77343} = {ACBB20E1-37A7-403B-83A9-560BB5678051}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4E2ACBD4-212F-4E82-9C62-78EC0630AEA8}
